@@ -2378,8 +2378,8 @@ fieldset:disabled a.btn {
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #a78a5a;
-  border-color: #9f8455;
+  background-color: #0aa304;
+  border-color: aliceblue;
 }
 
 .btn-primary:focus, .btn-primary.focus {
@@ -9814,7 +9814,7 @@ h4, h5, h6 {
 }
 
 .bg-action {
-  background: linear-gradient(rgba(55, 55, 63, 0.7), rgba(55, 55, 63, 0.7)), url(../img/carousel-2.jpg), no-repeat center center;
+  background: linear-gradient(rgba(55, 55, 63, 0.7), rgba(55, 55, 63, 0.7)), url(../img/madera27.jpg), no-repeat center center;
   background-size: cover;
 }
 
@@ -9837,7 +9837,7 @@ h4, h5, h6 {
   align-items: center;
   justify-content: center;
   color: #0A00AD;
-  background: #6A6A70;
+  background: aliceblue;
   border-radius: 5px;
   font-size: 22px;
 }
